@@ -7,7 +7,7 @@ For this project the dataset was selected from the Kaggle website (https://www.k
 2) Tools used: I used Python for the cleaning process of the dataset and the creation of the json file. On the other hand, Label Studio was the tool I used for the annotation process
 
 3) Label Studio Configuration
-
+```xml
 <View>
   <Header value="Toxic Comment Labeling"/>
   <Text name="text" value="$text"/>
